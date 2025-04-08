@@ -1,2 +1,2 @@
-API_KEY='apikey'
-CLIENT_ID='client_id.apps.googleusercontent.com'
+API_KEY='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'
+CLIENT_ID='1013038011168-9uok7e84n7b3ln2f39rmpsob5dldeo57.apps.googleusercontent.com'
